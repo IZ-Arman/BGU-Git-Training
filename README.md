@@ -1,2 +1,2 @@
 # BGU-Git-Training
-A New Journey
+A New Journey  Begins   
